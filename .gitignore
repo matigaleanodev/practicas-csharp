@@ -1,0 +1,12 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Configuración del entorno local
+.vscode/
+.vs/
+
+# Archivos temporales
+*.log
+*.tmp
+*.temp
